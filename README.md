@@ -1,4 +1,4 @@
-# [Your Name]
+# Mahmoud Moamen
 
 👋 Hi there! I'm Mahmoud Moamen, a senior computer science and engineering student passionate about Software Engineering.
 
@@ -60,4 +60,4 @@ I occasionally write about my experiences and thoughts. Check out my [blog](http
 -->
 ---
 
-Feel free to use and modify this template as per your requirements. Add or remove sections based on what you want to showcase on your GitHub profile. Don't forget to replace placeholders like `[Your Name]`, `[Your Title/Role]`, and others with your actual information.
+Feel free to use and modify this template as per your requirements. Add or remove sections based on what you want to showcase on your GitHub profile. Don't forget to replace placeholders like `Mahmoud Moamen`, `Senior CSEN Student`, and others with your actual information.

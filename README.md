@@ -1,6 +1,6 @@
 # Mahmoud Moamen
 
-👋 Hi there! I'm Mahmoud Moamen, a senior computer science and engineering student passionate about Software Engineering.
+👋 Hi there! I'm Mahmoud Moamen, a graduate computer science and engineering engineer passionate about Software Engineering.
 
 ## 🔧 Skills
 
